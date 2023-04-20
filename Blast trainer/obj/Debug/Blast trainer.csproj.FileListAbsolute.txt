@@ -1,0 +1,26 @@
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\bin\Debug\Blast trainer.exe.config
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\bin\Debug\Blast trainer.exe
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\bin\Debug\Blast trainer.pdb
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\bin\Debug\Memory.dll
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\bin\Debug\Memory.xml
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.AssemblyReference.cache
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast_trainer.Form1.resources
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast_trainer.Properties.Resources.resources
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.GenerateResource.cache
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.CoreCompileInputs.cache
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.CopyComplete
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast trainer.exe
+C:\Users\Brandon St-Gelais\Source\Repos\Blast trainer\Blast trainer\obj\Debug\Blast trainer.pdb
+E:\Src\Earthworm Jim 3D PC ZTrainer\Blast trainer\Blast trainer\bin\Debug\Eartworm trainer.exe.config
+E:\Src\Earthworm Jim 3D PC ZTrainer\Blast trainer\Blast trainer\bin\Debug\Eartworm trainer.exe
+E:\Src\Earthworm Jim 3D PC ZTrainer\Blast trainer\Blast trainer\bin\Debug\Eartworm trainer.pdb
+E:\Src\Earthworm Jim 3D PC ZTrainer\Blast trainer\Blast trainer\bin\Debug\Memory.dll
+E:\Src\Earthworm Jim 3D PC ZTrainer\Blast trainer\Blast trainer\bin\Debug\Memory.xml
+E:\Src\Earthworm Jim 3D PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.AssemblyReference.cache
+E:\Src\Earthworm Jim 3D PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Blast_trainer.Form1.resources
+E:\Src\Earthworm Jim 3D PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Earthworm_trainer.Properties.Resources.resources
+E:\Src\Earthworm Jim 3D PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.GenerateResource.cache
+E:\Src\Earthworm Jim 3D PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.CoreCompileInputs.cache
+E:\Src\Earthworm Jim 3D PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Blast trainer.csproj.CopyComplete
+E:\Src\Earthworm Jim 3D PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Eartworm trainer.exe
+E:\Src\Earthworm Jim 3D PC ZTrainer\Blast trainer\Blast trainer\obj\Debug\Eartworm trainer.pdb
